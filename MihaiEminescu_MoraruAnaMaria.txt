@@ -1,0 +1,35 @@
+<html>
+  <head>
+   <title>
+    Poezie
+   </title>
+  </head>
+ <body bgcolor="#ccddff" text="black">
+ <center>  <span style="font-size:20px" > <b> <i> &#350i Dac&#259...</i></b> </span style> <br>
+ <hr style="background:#6699ff; height:5px; width:50%;">
+<img src="https://poetii-nostri.ro/images/poeti/mihai-eminescu-1418988692.jpg" width="200" height="200"/> <br>
+ <span style="color: #993333;">
+<p>&#350i dac&#259 ramuri bat &icircn geam <br>
+&#350i se cutremur plopii,<br>
+E ca &icircn minte s&#259 te am <br>
+&#350i-ncet s&#259 te apropii. </p>
+<p>&#350i dac&#259 stele bat &icircn lac <br>
+Ad&acircncu-i lumin&acircndu-l, <br>
+E ca durerea mea s-o &icircmpac <br>
+&Icircnsenin&acircndu-mi g&acircndul. </p>
+<p> &#350i dac&#259 norii de&#351i se duc <br>
+De iese-n luciu luna, <br>
+E ca aminte s&#259-mi aduc <br>
+De tine-ntotdeauna. </p>
+ <address> (M.Eminescu) </address>
+</span>
+ <hr style="background:blue; height:5px; width:100%;">
+ <hr style="background:yellow; height:5px; width:100%;"> 
+ <hr style="background:red; height:5px; width:100%;"> 
+<span style="color: #330011;">
+ <div style="text-align:right;">  A elaborat: Moraru Ana-Maria </div> <br>
+ <div style="text-align:right;"> Clasa 12B </div> <br>
+ <div style="text-align:right;"> Profesor: Maria Gu&#539u </div>
+</span>
+  </body>
+</html>
